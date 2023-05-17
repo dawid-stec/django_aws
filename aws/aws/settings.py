@@ -83,9 +83,6 @@ DATABASES = {
         'PASSWORD': 'Password1',
         'HOST': 'django-database.cpmmgffcmnsc.eu-north-1.rds.amazonaws.com',
         'PORT': '3306',
-        'OPTIONS': {
-            'sql_mode': 'traditional'
-        },
     }
 }
 
