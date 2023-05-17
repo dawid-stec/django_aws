@@ -1,0 +1,6 @@
+Django==4.2.1
+django-cors-headers==4.0.0
+djangorestframework==3.14.0
+mysql-connector-python==8.0.33
+mysqlclient==2.1.1
+requests==2.30.0
