@@ -86,6 +86,11 @@ DATABASES = {
     }
 }
 
+S3_ENDPOINT_URL = 'django-bucket-ds'
+S3_ACCESS_KEY_ID = 'AKIARVNSNG2GYUJ6TBN5'
+S3_SECRET_ACCESS_KEY = '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'
+S3_SIGNED_VERSION = None
+S3_REGION = 'eu-north-1'
 
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
